@@ -1,0 +1,28 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>Icon/analytics_24dp_75FBFD_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>Icon/analytics_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>Icon/book_online_24dp_75FBFD_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>Icon/book_online_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>Icon/home_24dp_75FBFD_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>Icon/home_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>Icon/logout_24dp_75FBFD_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>Icon/logout_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>Icon/menu_24dp_75FBFD_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>Icon/menu_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>Icon/movie_24dp_75FBFD_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>Icon/movie_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>Icon/person_24dp_75FBFD_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>Icon/person_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>Icon/search_24dp_75FBFD_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>Icon/search_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>Icon/settings_24dp_75FBFD_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>Icon/settings_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.png</file>
+  </qresource>
+  <qresource prefix="images">
+    <file>images/CineRegis.png</file>
+    <file>images/coke.jpg</file>
+    <file>images/fanta.jpg</file>
+    <file>images/pepsi.jpg</file>
+  </qresource>
+</RCC>
